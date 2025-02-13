@@ -295,3 +295,12 @@ img {
 .card-body.border.mt-n1.py-4.text-center {
     width: 100%;
 }
+.card-img-tiles .main-img>img {
+    height: 160px;
+    object-fit: cover;
+}
+
+.card-img-tiles .thumblist>img {
+    height: 70px;
+    object-fit: cover;
+}
