@@ -224,7 +224,8 @@ img {
     display: flex;
     position: relative;
     background-color: #fff;
-    z-index: 5
+    z-index: 5;
+    width: 100%
 }
 
 .card-img-tiles .main-img>img,
