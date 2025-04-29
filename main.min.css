@@ -2454,7 +2454,7 @@ blockquote {
 .body {
   align-items: center;
   margin-top: 0;
-  font-family: aktiv-grotesk, sans-serif;
+  /* font-family: aktiv-grotesk, sans-serif; */
   font-weight: 400
 }
 
@@ -3424,7 +3424,7 @@ blockquote {
   background-color: #0000;
   border: 1px #000;
   border-bottom-width: 2px;
-  font-family: aktiv-grotesk, sans-serif;
+  /* font-family: aktiv-grotesk, sans-serif; */
   font-weight: 500;
   display: block
 }
@@ -3767,7 +3767,7 @@ blockquote {
   text-transform: none;
   max-width: 80%;
   margin-bottom: 20px;
-  font-family: aktiv-grotesk, sans-serif;
+  /* font-family: aktiv-grotesk, sans-serif; */
   font-size: 13px;
   font-weight: 400;
   line-height: 18px;
@@ -3942,7 +3942,7 @@ blockquote {
 .category-divider {
   color: #ee3124;
   padding-right: 5px;
-  font-family: aktiv-grotesk, sans-serif;
+  /* font-family: aktiv-grotesk, sans-serif; */
   font-weight: 300;
   display: inline
 }
@@ -4713,7 +4713,7 @@ blockquote {
   white-space: pre;
   cursor: pointer;
   margin-bottom: 5px;
-  font-family: aktiv-grotesk, sans-serif;
+  /* font-family: aktiv-grotesk, sans-serif; */
   font-size: 11px;
   font-weight: 400;
   line-height: 20px;
@@ -5727,7 +5727,7 @@ blockquote {
 .h1 {
   color: var(--lear-black);
   align-self: flex-start;
-  margin-bottom: 10px;
+  margin-bottom: 20px;
   font-family: aktiv-grotesk-extended, sans-serif;
   font-size: 38px !important;
   font-weight: 300;
@@ -5880,7 +5880,7 @@ blockquote {
   text-transform: uppercase;
   cursor: pointer;
   margin-bottom: 10px;
-  font-family: aktiv-grotesk, sans-serif;
+  /* font-family: aktiv-grotesk, sans-serif; */
   font-size: 11px;
   font-weight: 400;
   text-decoration: none;
@@ -9303,7 +9303,7 @@ blockquote {
 
 .newsroom-summary-text {
   text-transform: none;
-  font-family: aktiv-grotesk, sans-serif;
+  /* font-family: aktiv-grotesk, sans-serif; */
   line-height: 15px
 }
 
@@ -9727,7 +9727,7 @@ blockquote {
   text-transform: none;
   cursor: pointer;
   margin-bottom: 5px;
-  font-family: aktiv-grotesk, sans-serif;
+  /* font-family: aktiv-grotesk, sans-serif; */
   font-size: 11px;
   font-weight: 400;
   text-decoration: none;
@@ -10622,7 +10622,7 @@ blockquote {
 }
 
 .checkbox-label {
-  font-family: aktiv-grotesk, sans-serif;
+  /* font-family: aktiv-grotesk, sans-serif; */
   font-weight: 400
 }
 
@@ -10871,7 +10871,7 @@ blockquote {
 .fs-body {
   align-items: center;
   margin-top: 0;
-  font-family: aktiv-grotesk, sans-serif;
+  /* font-family: aktiv-grotesk, sans-serif; */
   font-size: 14px;
   font-weight: 400;
   line-height: 1.5
@@ -11724,7 +11724,7 @@ blockquote {
   text-transform: none;
   margin-top: 0;
   margin-bottom: 0;
-  font-family: aktiv-grotesk, sans-serif;
+  /* font-family: aktiv-grotesk, sans-serif; */
   font-size: 1rem;
   font-style: normal;
   font-weight: 500;
@@ -12451,7 +12451,7 @@ blockquote {
 .hero-simple__body.p2--lc {
   color: #fff;
   padding-bottom: 32px;
-  font-family: aktiv-grotesk, sans-serif;
+  /* font-family: aktiv-grotesk, sans-serif; */
   font-size: 18px;
   line-height: 150%
 }
@@ -12507,7 +12507,7 @@ blockquote {
   border-radius: 50px;
   width: 48px;
   height: 48px;
-  font-family: aktiv-grotesk, sans-serif;
+  /* font-family: aktiv-grotesk, sans-serif; */
   display: block;
   right: 80px
 }
@@ -12525,7 +12525,7 @@ blockquote {
   border-radius: 50px;
   width: 40px;
   height: 40px;
-  font-family: aktiv-grotesk, sans-serif;
+  /* font-family: aktiv-grotesk, sans-serif; */
   display: block;
   top: -80px;
   right: 80px
@@ -12556,7 +12556,7 @@ blockquote {
   border-radius: 50px;
   width: 40px;
   height: 40px;
-  font-family: aktiv-grotesk, sans-serif;
+  /* font-family: aktiv-grotesk, sans-serif; */
   display: block;
   top: -96px;
   right: 54px
@@ -13580,7 +13580,7 @@ blockquote {
 }
 
 .link--secondary.carousel__slide-link {
-  font-family: aktiv-grotesk, sans-serif;
+  /* font-family: aktiv-grotesk, sans-serif; */
   font-size: 16px;
   font-weight: 700;
   line-height: 150%
@@ -13621,7 +13621,7 @@ blockquote {
   align-items: center;
   width: 48px;
   height: 48px;
-  font-family: aktiv-grotesk, sans-serif;
+  /* font-family: aktiv-grotesk, sans-serif; */
   display: block;
   right: 16px
 }
@@ -13640,7 +13640,7 @@ blockquote {
   align-items: center;
   width: 40px;
   height: 40px;
-  font-family: aktiv-grotesk, sans-serif;
+  /* font-family: aktiv-grotesk, sans-serif; */
   display: block;
   top: -80px;
   right: 16px
@@ -13650,7 +13650,7 @@ blockquote {
   border-radius: 50px;
   width: 40px;
   height: 40px;
-  font-family: aktiv-grotesk, sans-serif;
+  /* font-family: aktiv-grotesk, sans-serif; */
   top: -96px;
   right: 0
 }
@@ -13672,7 +13672,7 @@ blockquote {
   border-radius: 50px;
   width: 40px;
   height: 40px;
-  font-family: aktiv-grotesk, sans-serif;
+  /* font-family: aktiv-grotesk, sans-serif; */
   top: -96px;
   right: 0
 }
@@ -13859,7 +13859,7 @@ blockquote {
 
 .list-block__body.p2--lc {
   color: #000;
-  font-family: aktiv-grotesk, sans-serif;
+  /* font-family: aktiv-grotesk, sans-serif; */
   font-size: 18px;
   line-height: 150%
 }
@@ -14021,7 +14021,7 @@ blockquote {
 }
 
 .grid-list__body.p2--lc {
-  font-family: aktiv-grotesk, sans-serif;
+  /* font-family: aktiv-grotesk, sans-serif; */
   font-size: 18px;
   font-weight: 400;
   line-height: 150%
@@ -14102,7 +14102,7 @@ blockquote {
 }
 
 .text-block__body.p2--lc {
-  font-family: aktiv-grotesk, sans-serif;
+  /* font-family: aktiv-grotesk, sans-serif; */
   font-size: 18px;
   font-weight: 400;
   line-height: 150%
@@ -14197,7 +14197,7 @@ blockquote {
 
 .blog-post-introduction {
   margin-bottom: 40px;
-  font-family: aktiv-grotesk, sans-serif;
+  /* font-family: aktiv-grotesk, sans-serif; */
   font-size: 22px;
   line-height: 36px
 }
@@ -14310,7 +14310,7 @@ blockquote {
 }
 
 .text-block-2-col__body.p2--lc {
-  font-family: aktiv-grotesk, sans-serif;
+  /* font-family: aktiv-grotesk, sans-serif; */
   font-size: 18px;
   line-height: 150%
 }
@@ -14490,7 +14490,7 @@ blockquote {
 }
 
 .grid-icon__body.p2--lc {
-  font-family: aktiv-grotesk, sans-serif;
+  /* font-family: aktiv-grotesk, sans-serif; */
   font-size: 18px;
   line-height: 150%
 }
@@ -14589,7 +14589,7 @@ blockquote {
 .field-label-4 {
   color: #000;
   text-transform: none;
-  font-family: aktiv-grotesk, sans-serif;
+  /* font-family: aktiv-grotesk, sans-serif; */
   font-weight: 400
 }
 
@@ -14738,7 +14738,7 @@ blockquote {
   letter-spacing: .1px;
   text-transform: none;
   width: 100%;
-  font-family: aktiv-grotesk, sans-serif;
+  /* font-family: aktiv-grotesk, sans-serif; */
   font-size: 16px;
   font-weight: 500;
   line-height: 24px
@@ -14819,7 +14819,7 @@ blockquote {
 }
 
 .paragraph-12.font-size-13 {
-  font-family: aktiv-grotesk, sans-serif;
+  /* font-family: aktiv-grotesk, sans-serif; */
   font-size: 13px;
   line-height: 19px
 }
@@ -15013,7 +15013,7 @@ blockquote {
 .button-17.ce-button-11 {
   padding-left: 30px;
   padding-right: 30px;
-  font-family: aktiv-grotesk, sans-serif;
+  /* font-family: aktiv-grotesk, sans-serif; */
   font-size: 16px;
   font-weight: 500;
   line-height: 150%
@@ -15925,7 +15925,7 @@ blockquote {
 }
 
 .text-block-18 {
-  font-family: aktiv-grotesk, sans-serif;
+  /* font-family: aktiv-grotesk, sans-serif; */
   font-size: 16px;
   font-weight: 500;
   line-height: 150%
@@ -16031,7 +16031,7 @@ blockquote {
 
 .text-block-19 {
   letter-spacing: .1px;
-  font-family: aktiv-grotesk, sans-serif;
+  /* font-family: aktiv-grotesk, sans-serif; */
   font-size: 16px;
   font-weight: 500;
   line-height: 150%
@@ -16091,7 +16091,7 @@ blockquote {
 }
 
 .ce-link--secondary-blog {
-  font-family: aktiv-grotesk, sans-serif;
+  /* font-family: aktiv-grotesk, sans-serif; */
   font-size: 16px;
   font-weight: 700;
   line-height: 150%;
@@ -16262,7 +16262,7 @@ blockquote {
   text-transform: none;
   margin-top: 0;
   margin-bottom: 0;
-  font-family: aktiv-grotesk, sans-serif;
+  /* font-family: aktiv-grotesk, sans-serif; */
   font-size: 1rem;
   font-style: normal;
   font-weight: 500;
@@ -16305,7 +16305,7 @@ blockquote {
   white-space: pre;
   cursor: pointer;
   margin-bottom: 5px;
-  font-family: aktiv-grotesk, sans-serif;
+  /* font-family: aktiv-grotesk, sans-serif; */
   font-size: 11px;
   font-weight: 400;
   text-decoration: none;
@@ -16435,7 +16435,7 @@ blockquote {
   text-transform: none;
   margin-top: 0;
   margin-bottom: 0;
-  font-family: aktiv-grotesk, sans-serif;
+  /* font-family: aktiv-grotesk, sans-serif; */
   font-size: 1rem;
   font-style: normal;
   font-weight: 500;
@@ -16724,7 +16724,7 @@ blockquote {
 
 .text-block-30 {
   letter-spacing: .1px;
-  font-family: aktiv-grotesk, sans-serif;
+  /* font-family: aktiv-grotesk, sans-serif; */
   font-size: 16px;
   font-weight: 500;
   line-height: 150%
@@ -16736,7 +16736,7 @@ blockquote {
 }
 
 .text-block-31 {
-  font-family: aktiv-grotesk, sans-serif;
+  /* font-family: aktiv-grotesk, sans-serif; */
   font-size: 16px;
   font-weight: 500;
   line-height: 150%
@@ -16826,7 +16826,7 @@ blockquote {
   text-transform: none;
   margin-top: 0;
   margin-bottom: 0;
-  font-family: aktiv-grotesk, sans-serif;
+  /* font-family: aktiv-grotesk, sans-serif; */
   font-size: 1rem;
   font-style: normal;
   font-weight: 500;
@@ -16900,7 +16900,7 @@ blockquote {
   text-transform: none;
   cursor: pointer;
   margin-bottom: 5px;
-  font-family: aktiv-grotesk, sans-serif;
+  /* font-family: aktiv-grotesk, sans-serif; */
   font-size: 11px;
   font-weight: 400;
   text-decoration: none;
@@ -17570,7 +17570,7 @@ blockquote {
   }
 
   .text-block-18 {
-    font-family: aktiv-grotesk, sans-serif;
+    /* font-family: aktiv-grotesk, sans-serif; */
     font-size: 18px;
     font-weight: 400;
     line-height: 150%
@@ -17634,7 +17634,7 @@ blockquote {
   }
 
   .text-block-31 {
-    font-family: aktiv-grotesk, sans-serif;
+    /* font-family: aktiv-grotesk, sans-serif; */
     font-size: 18px;
     font-weight: 400;
     line-height: 150%
@@ -17917,6 +17917,10 @@ blockquote {
     align-items: center
   }
 
+  p {
+    font-size: 18px !important;
+  }
+
   .h2 {
     font-size: 15px
   }
@@ -17934,7 +17938,7 @@ blockquote {
   }
 
   .section-image-text {
-    max-width: 50%
+    max-width: 100%
   }
 
   .section-image-text.section-image-text__comfort {
@@ -18157,7 +18161,8 @@ blockquote {
     align-items: center;
     margin-left: auto;
     margin-right: auto;
-    display: flex
+    display: flex;
+    padding: 3vh 10%
   }
 
   .section-relative.center.guilford-mobile {
@@ -18290,7 +18295,7 @@ blockquote {
   }
 
   .red-lear-oval {
-    left: -390px
+    left: -240px
   }
 
   .red-lear-oval.company-mobile {
