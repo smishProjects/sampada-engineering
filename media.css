@@ -1,0 +1,59 @@
+/* Prevent horizontal scroll on mobile */
+body,
+html {
+    overflow-x: hidden;
+}
+
+/* Ensure navbar content wraps properly on small screens */
+.navbar .container-fluid {
+    flex-wrap: wrap;
+}
+
+/* Adjust padding for navbar text in mobile view */
+@media screen and (max-width: 576px) {
+    .navbar-text {
+        padding-top: 10px;
+        width: 100%;
+        text-align: center;
+    }
+
+    .navbar-brand {
+        font-size: 18px;
+    }
+
+    .navbar-toggler {
+        margin-left: auto;
+    }
+
+    .navbar-collapse {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 991px) {
+    .button-animation-center {
+        display: none;
+    }
+
+    #bg-video {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+
+    .red-lear-oval {
+        width: 80% !important;
+    }
+
+    .content p {
+        width: 70% !important;
+    }
+
+    .button-block-center {
+        width: auto !important;
+    }
+
+    section.section-relative.py-5 .row {
+        padding: 0 !important;
+    }
+}
